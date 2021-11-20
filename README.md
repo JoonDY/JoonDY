@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JoonDY
+- 👀 I’m interested in ... Web Development/Software engineering.
+- 🌱 I’m currently working on ... web apps.
