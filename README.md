@@ -11,11 +11,5 @@
 - Company Website Redesign: [Repository](https://github.com/JoonDY/redesign-site) | [Live](https://nifty-neumann-c8ae0d.netlify.app/)
 
 ## Skills
-- Javascript
-- React
-- Node
-- Express
-- Python
-- Java
-- HTML
-- CSS
+Javascript | React | Node | Express | Python | Java | HTML | CSS
+
